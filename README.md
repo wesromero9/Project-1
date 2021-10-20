@@ -2,13 +2,31 @@
 In this Repo, Jake and I will have our first Fintech Project
 
 # Motivation & Summary 
-Looking at index funds pre-covid / post-covid 
-VOO, SPY, VGT  
-Data needed 
-Historical Data for securities 
-Graph historical performance 
-Comparing industries, which is primed for further growth over next X years.
-Run monte carlo simulation for future growth comparison 
-# Questions & Data
-Over the last three years we have seen volatility. Which fund has been the most stable? Which is primed for growth? 
-Our project is to create a robo advisor to uncover patterns. We'll examine relationships between types of transactions and location; purchase prices and times of day; trends in purchases over the course of the year; and related questions, as the data admits.
+Questions explored in this analysis:
+
+How different are two of todays most popular ETFs? The SPDR S&P 500 etf vs. the VGT Vangaurd IT ETF 
+Over the last three years, how much correlation is there in these ETFs? 
+How do these ETF's compare against other stable assets?
+How does volume effect pricing? When are bull / bearish markets? 
+If these funds daily trading history were to continue its pattern and purely price movements are a predictor of future results, what are their expected forward return, and range of outcomes within a given confidence interval? 
+
+# 1. How different are two of todays most popular ETFs? The SPDR S&P 500 etf vs. the VGT Vangaurd IT ETF 
+
+
+
+
+# 2. Over the last three years, how much correlation is there in these ETFs? 
+
+
+
+# 3. How do these ETF's compare against other stable assets?
+
+
+
+
+# 4. How does volume effect pricing? When are bull / bearish markets?
+
+
+
+# 5. If these funds daily trading history were to continue its pattern and purely price movements are a predictor of future results, what are their expected forward return, and range of outcomes within a given confidence interval? 
+
