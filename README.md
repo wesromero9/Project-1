@@ -12,6 +12,7 @@ If these funds daily trading history were to continue its pattern and purely pri
 
 ### 1. How different are two of todays most popular ETFs? The SPDR S&P 500 etf vs. the VGT Vangaurd IT ETF 
 ![](images/VGTvs.SPYdailyreturns.png)
+![Volatility](https://user-images.githubusercontent.com/33114169/138026112-7308aff6-d3e2-4ede-b79c-6ac998475be6.png)
 
 
 
@@ -23,7 +24,7 @@ If these funds daily trading history were to continue its pattern and purely pri
 
 ### 3. How do these ETF's compare against other stable assets?
 ![](images/VGT%20confidence.png)
-![Volatility](https://user-images.githubusercontent.com/33114169/138026112-7308aff6-d3e2-4ede-b79c-6ac998475be6.png)
+![](
 ![](VGTvs.USDreturns.png)
 
 
