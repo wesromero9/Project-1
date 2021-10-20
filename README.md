@@ -32,7 +32,7 @@ If these funds daily trading history were to continue its pattern and purely pri
 ![](images/VGTvs.USDreturns.png)
 ![](images/VGTvsUSD.png)
 ![](images/SPYvs.USDreturns.png)
-![](images/Unknown-3.png)
+
 
 
 
