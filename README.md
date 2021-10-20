@@ -53,4 +53,6 @@ If these funds daily trading history were to continue its pattern and purely pri
 
 ### 5. If these funds daily trading history were to continue its pattern and purely price movements are a predictor of future results, what are their expected forward return, and range of outcomes within a given confidence interval? 
 ![](images/VGTmonte.png)
+![](images/QQplotVGT.png)
+![](images/QQplotSPY.png)
 
