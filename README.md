@@ -28,7 +28,10 @@ If these funds daily trading history were to continue its pattern and purely pri
 
 
 ### 3. How do these ETF's compare against other stable assets?
+#### VGT confidence histogram 
 ![](images/VGT%20confidence.png)
+#### VGT vs. USD
+##### the USD and other currencies should not fluctuate much 
 ![](images/VGTvs.USDreturns.png)
 ![](images/VGTvsUSD.png)
 ![](images/SPYvs.USDreturns.png)
