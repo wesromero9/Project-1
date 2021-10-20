@@ -40,6 +40,10 @@ If these funds daily trading history were to continue its pattern and purely pri
 ### 4. How does volume effect pricing? When are bull / bearish markets?
 ![](images/Rolling30dayvgt&USD.png)
 ![](images/Rolling30dayVGT.png)
+![](images/VGTvolmonth.png)
+![](images/SPYvolmonth.png)
+![](images/VGTvolyear.png)
+![](images/SPYvolyear.png)
 
 
 ### 5. If these funds daily trading history were to continue its pattern and purely price movements are a predictor of future results, what are their expected forward return, and range of outcomes within a given confidence interval? 
