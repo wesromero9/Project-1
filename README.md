@@ -40,9 +40,11 @@ If these funds daily trading history were to continue its pattern and purely pri
 ### 4. How does volume effect pricing? When are bull / bearish markets?
 ![](images/Rolling30dayvgt&USD.png)
 ![](images/Rolling30dayVGT.png)
+#### VGT
 ![](images/VGTvolmonth.png)
-![](images/SPYvolmonth.png)
 ![](images/VGTvolyear.png)
+#### SPY
+![](images/SPYvolmonth.png)
 ![](images/SPYvolyear.png)
 
 
