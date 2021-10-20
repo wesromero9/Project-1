@@ -1,0 +1,59 @@
+# Project-1
+In this Repo, Jake and I will have our first Fintech Project
+
+# Motivation & Summary 
+Questions explored in this analysis:
+
+How different are two of todays most popular ETFs? The SPDR S&P 500 etf vs. the VGT Vangaurd IT ETF 
+Over the last three years, how much correlation is there in these ETFs? 
+How do these ETF's compare against other stable assets?
+How does volume effect pricing? When are bull / bearish markets? 
+If these funds daily trading history were to continue its pattern and purely price movements are a predictor of future results, what are their expected forward return, and range of outcomes within a given confidence interval? 
+
+### 1. How different are two of todays most popular ETFs? The SPDR S&P 500 etf vs. the VGT Vangaurd IT ETF 
+![](images/VGTpricechart.png)
+![](images/VGTvs.SPYdailyreturns.png)
+![](images/VGTvs.SPXdaily.png)
+
+
+
+
+
+
+
+### 2. Over the last three years, how much correlation is there in these ETFs? 
+![](images/SPYVGTUSDheat.png)
+![](images/Volatility.png)
+
+
+
+### 3. How do these ETF's compare against other stable assets?
+#### VGT confidence histogram 
+![](images/VGT%20confidence.png)
+#### VGT vs. USD
+##### the USD and other currencies should not fluctuate much 
+![](images/VGTvs.USDreturns.png)
+![](images/VGTvsUSD.png)
+![](images/SPYvs.USDreturns.png)
+
+
+
+
+
+### 4. How does volume effect pricing? When are bull / bearish markets?
+![](images/Rolling30dayvgt&USD.png)
+![](images/Rolling30dayVGT.png)
+#### VGT
+![](images/VGTvolmonth.png)
+![](images/VGTvolyear.png)
+#### SPY
+![](images/SPYvolmonth.png)
+![](images/SPYvolyear.png)
+
+
+### 5. If these funds daily trading history were to continue its pattern and purely price movements are a predictor of future results, what are their expected forward return, and range of outcomes within a given confidence interval? 
+![](images/VGTmonte.png)
+#### The purpose of Q Q plots is to find out if two sets of data come from the same distribution. A 45 degree angle is plotted on the Q Q plot; if the two data sets come from a common distribution, the points will fall on that reference line.
+![](images/QQplotVGT.png)
+![](images/QQplotSPY.png)
+
